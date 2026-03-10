@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Runtime logs
+*.log
+app_log.txt
